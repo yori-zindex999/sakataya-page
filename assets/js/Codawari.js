@@ -1,0 +1,6 @@
+import{_ as d,o,c as e,r as u,F as r,a as c,t as n,n as x,p as i,b as p,d as l}from"./index.js";const h={},f=s=>(i("data-v-5526611e"),s=s(),p(),s),g={class:"lcl-contents__index f-index"},m=["src","alt"],v={class:"lcl-contents__copy"},$={class:"lcl-contents__txt"},w=f(()=>c("div",{class:"lcl-contents__bg"},null,-1));function y(s,a){return o(),e(r,null,u([{index:"汁",copy:`濃厚な
+スープの極み`,txt:`豚骨をじっくりと煮込んで引き出した旨味とコク。
+長時間煮込むことで、骨の髄まで抽出された濃厚なスープは、まさに家系ラーメンの真髄。`,slug:"soup"},{index:"麺",copy:"自家製の極太麺",txt:`スープとの相性を考え抜いた自家製の極太麺は,
+モチモチとした食感が特徴。
+スープに負けない存在感、噛むたびに小麦の風味が広がる。`,slug:"noodle"},{index:"肉",copy:"特製チャーシュー",txt:`秘伝のタレに漬け込んでからじっくりと焼き上げた特製チャーシューは、柔らかくジューシー。
+脂身と赤身のバランスが絶妙で、スープとの相性も抜群.`,slug:"meats"}],(t,_)=>c("div",{class:x(["lcl-contents",`lcl-contents--${t.slug}`]),key:_},[c("h3",g,n(t.index),1),c("img",{src:`./img/codawari/contents/img_0${_+1}.png`,alt:t.copy,class:"lcl-contents__img"},null,8,m),c("p",v,n(t.copy),1),c("p",$,n(t.txt),1),w],2)),64)}const I=d(h,[["render",y],["__scopeId","data-v-5526611e"]]),C={},S=s=>(i("data-v-a891d518"),s=s(),p(),s),k={class:"lcl-codawari__fv"},B=S(()=>c("h2",{class:"lcl-codawari__fv-index f-index"},"坂田家のこだわり",-1)),F=[B];function b(s,a){return o(),e("div",k,F)}const N=d(C,[["render",b],["__scopeId","data-v-a891d518"]]),z={__name:"Codawari",setup(s){return(a,t)=>(o(),e(r,null,[l(N),l(I)],64))}};export{z as default};
